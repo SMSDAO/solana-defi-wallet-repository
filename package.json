@@ -21,7 +21,7 @@
     "@solana/wallet-adapter-react": "^0.15.35",
     "@solana/wallet-adapter-react-ui": "^0.9.35",
     "@solana/wallet-adapter-wallets": "^0.19.32",
-    "@solana/spl-token": "^0.3.9",
+    "@solana/spl-token": "^0.4.14",
     "framer-motion": "^10.16.16",
     "zustand": "^4.4.7",
     "axios": "^1.6.2",
