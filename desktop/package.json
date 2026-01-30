@@ -13,7 +13,7 @@
     "start": "electron ."
   },
   "dependencies": {
-    "next": "^14.0.4",
+    "next": "^15.5.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "electron": "^28.0.0",
